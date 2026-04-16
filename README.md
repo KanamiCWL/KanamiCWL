@@ -27,5 +27,5 @@ Nie uczę się składni na blachę – buduję rozwiązania. Wierzę w **Project
 
 ### 📫 Kontakt:
 * [LinkedIn](TWÓJ_LINK_DO_LINKEDIN)
-* [E-mail](oland@onet.pl)
+* [E-mail](dodaj)
 
