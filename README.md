@@ -6,7 +6,7 @@
 
 <a name="english-version"></a>
 ## 🇺🇸 English Version
-(# Hi, I'm Alek! 👋
+# Hi, I'm Alek! 👋
 
 ### 👨‍💻 Aspiring Data Engineer | Informatics & Econometrics Student @ University of Gdańsk
 
@@ -36,7 +36,7 @@ I don't believe in just memorizing syntax-I focus on building solutions. I am a 
 ### 📫 Get in touch:
 * [LinkedIn](YOUR_LINKEDIN_LINK_HERE)
 * [E-mail](YOUR_EMAIL_HERE)
-)
+
 
 ---
 
