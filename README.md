@@ -1,4 +1,4 @@
-# Hi, I'm Alek! 👋 / Cześć, jestem Alek!
+
 
 [English Version](#english-version) | [Polska Wersja](#polska-wersja)
 
