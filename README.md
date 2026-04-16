@@ -42,7 +42,7 @@ I don't believe in just memorizing syntax-I focus on building solutions. I am a 
 
 <a name="polska-wersja"></a>
 ## 🇵🇱 Polska Wersja
-(# Cześć, jestem Alek! 👋
+# Cześć, jestem Alek! 👋
 
 
 ### 👨‍💻 Kandydat na Data Engineera | Student Informatyki i Ekonometrii (UG)
@@ -73,7 +73,7 @@ Nie uczę się składni na blachę - buduję rozwiązania. Wierzę w **Project-B
 ### 📫 Kontakt:
 * [LinkedIn](TWÓJ_LINK_DO_LINKEDIN)
 * [E-mail](dodaj)
-  )
+  
 
 
 
