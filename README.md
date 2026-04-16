@@ -1,4 +1,12 @@
-# Hi, I'm Alek! 👋
+# Hi, I'm Alek! 👋 / Cześć, jestem Alek!
+
+[English Version](#english-version) | [Polska Wersja](#polska-wersja)
+
+---
+
+<a name="english-version"></a>
+## 🇺🇸 English Version
+(# Hi, I'm Alek! 👋
 
 ### 👨‍💻 Aspiring Data Engineer | Informatics & Econometrics Student @ University of Gdańsk
 
@@ -21,19 +29,20 @@ I am passionate about building robust data pipelines and transforming raw inform
 ---
 
 ### 📈 My Approach
-I don't believe in just memorizing syntax—I focus on building solutions. I am a firm believer in **Project-Based Learning**. Every line of SQL I write is designed to answer a specific business question or optimize a data workflow.
+I don't believe in just memorizing syntax-I focus on building solutions. I am a firm believer in **Project-Based Learning**. Every line of SQL I write is designed to answer a specific business question or optimize a data workflow.
 
 ---
 
 ### 📫 Get in touch:
 * [LinkedIn](YOUR_LINKEDIN_LINK_HERE)
 * [E-mail](YOUR_EMAIL_HERE)
+)
 
+---
 
-------
-
-
-# Cześć, jestem Alek! 👋
+<a name="polska-wersja"></a>
+## 🇵🇱 Polska Wersja
+(# Cześć, jestem Alek! 👋
 
 
 ### 👨‍💻 Kandydat na Data Engineera | Student Informatyki i Ekonometrii (UG)
@@ -64,4 +73,12 @@ Nie uczę się składni na blachę - buduję rozwiązania. Wierzę w **Project-B
 ### 📫 Kontakt:
 * [LinkedIn](TWÓJ_LINK_DO_LINKEDIN)
 * [E-mail](dodaj)
+  )
+
+
+
+
+
+
+
 
