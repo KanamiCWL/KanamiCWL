@@ -8,7 +8,7 @@
 ## 🇺🇸 English Version
 # Hi, I'm Alek! 👋
 
-### 👨‍💻 Aspiring Data Engineer | Informatics & Econometrics Student @ University of Gdańsk
+### 👨‍💻 Aspiring Data Engineer | Informatics & Econometrics Student at University of Gdańsk
 
 I am passionate about building robust data pipelines and transforming raw information into tangible business value. My academic background allows me to bridge the gap between programming and econometric modeling-enabling me not just to write code, but to deeply understand the logic and economics behind the data.
 
